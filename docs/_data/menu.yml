@@ -1,0 +1,15 @@
+# For documentation on this file, see:
+# https://github.com/riggraz/no-style-please#customize-the-menu
+
+entries:
+  - title: tech
+    post_list: 
+      category: tech
+      url: false
+      entries: false
+
+  - title: vc
+    post_list: 
+      category: vc
+      url: false
+      entries: false
