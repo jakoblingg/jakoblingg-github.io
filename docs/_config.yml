@@ -23,7 +23,7 @@ email: jakob@techand.vc
 description: > # description of the site (multiple lines allowed)
   a collection of perspectives on tech and vc. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: https://jakoblingg.github.io/ # the base hostname & protocol for your site, e.g. http://example.com
+url: https://www.techand.vc/ # the base hostname & protocol for your site, e.g. http://example.com
 
 
 favicon: "logo.png"
